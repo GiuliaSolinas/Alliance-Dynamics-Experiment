@@ -1,10 +1,5 @@
 # Alliance Dynamics Experiment
 
-This upload contains two folders
-
-* Data
-* Experimental setup
- 
 This upload contains two csv files. GAdata.csv contains per-subject/ per-period data on decisions made by participants in all our sessions. Interaction_Data.csv contains data aggregated by interactions. E.g., fraction of periods during which an interaction cooperated.
 
 ### File GAdata.csv, variables
