@@ -1,6 +1,6 @@
 # Alliance Dynamics Experiment
 
-# CONTENTS
+## CONTENTS
 
 Experimental setup files for eight treatments:
 
